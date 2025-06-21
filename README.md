@@ -201,31 +201,7 @@ Enhanced metadata features:
 - File number from filename
 - Multiple dense layers for processing
 
-## 🚀 Performance Tips
 
-1. **GPU Usage**: The model is optimized for GPU training
-2. **Memory Management**: Batch size is automatically adjusted
-3. **Mixed Precision**: Uses TensorFlow mixed precision for efficiency
-4. **Early Stopping**: Prevents overfitting with patience-based stopping
-
-## 📝 Logging and Monitoring
-
-- **TensorBoard logs**: Available in `./logs/`
-- **Model checkpoints**: Best models saved automatically
-- **Confusion matrix**: Saved as high-resolution PNG
-- **Training progress**: Real-time console output
-
-## 🤝 Contributing
-
-Feel free to contribute by:
-1. Reporting bugs
-2. Suggesting new features
-3. Improving documentation
-4. Adding new augmentation techniques
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
@@ -235,5 +211,3 @@ This project is licensed under the MIT License.
 - Gradio for the web interface
 
 ---
-
-**Note**: This enhanced version significantly improves upon the original model with state-of-the-art techniques for better accuracy and robustness. "# Garbage-Classification-" 
